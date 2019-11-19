@@ -1,0 +1,8 @@
+Main.class
+model/Enemies.class
+model/Artifacts.class
+model/Character.class
+model/Coordinates.class
+view/TheView.class
+model/Hero.class
+controller/Controller.class
